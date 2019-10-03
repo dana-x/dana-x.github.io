@@ -1,19 +1,12 @@
 ![](./logo.png)
 
-This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
+# Token Information
 
-The Theme features:
+- Token Name : Dana-X
+- Symbol : Dana-X
+- Total Suply : 1,000,000
 
-- Gulp
-- SASS
-- Sweet Scroll
-- Particle.js
-- BrowserSync
-- Font Awesome and Devicon icons
-- Google Analytics
-- Info Customization
-
-## Basic Setup
+## Social Media
 
 1. [Install Jekyll](http://jekyllrb.com)
 2. Clone the particle theme: `git clone https://github.com/nrandecker/particle.git`
