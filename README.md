@@ -1,4 +1,4 @@
-![](./logo.png)
+![](./image.png)
 
 ## Token Information
 
