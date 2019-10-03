@@ -1,12 +1,12 @@
 # Site settings
-title: 999 K Token For Community
-description: 999 K Token For Community
+title: Dana-X For Community
+description: Dana-X For Community
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: 999 K
-user_description: 999 K is erc20 that was built for the Blockchain community, has been supported by popular wallets on your computer, your smartphone, or websites like Mew, Metamask, Trustwallet, Imtoken and other erc20 wallets. One of the most popular uses for Token is "tipping" to the community. Think of it as a more meaningful "like" or upvote, with real value which can be used by the community.
+username: Dana-X
+user_description: Dana-X is erc20 that was built for the Blockchain community, has been supported by popular wallets on your computer, your smartphone, or websites like Mew, Metamask, Trustwallet, Imtoken and other erc20 wallets. One of the most popular uses for Token is "tipping" to the community. Think of it as a more meaningful "like" or upvote, with real value which can be used by the community.
 user_title: community
 email: anon@anon.com
 twitter_username: lorem_ipsum
